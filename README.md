@@ -1,2 +1,4 @@
-# Snake_project
-snake game project.
+# Jogo Snake
+ Modelo do jogo Snake criado na Unity
+ 
+ 
